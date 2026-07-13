@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI CRM HCP Interaction Logger
 
 ## Overview
@@ -148,3 +149,6 @@ Follow-up Actions: Follow-up call next week
 
 Supreeth S
 MCA, Amrita Vishwa Vidyapeetham, Mysuru
+=======
+# AI_CRM_HCP
+>>>>>>> 590104735b2ca42db317c9ade19be2b170a446e1
